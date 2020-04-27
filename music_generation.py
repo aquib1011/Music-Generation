@@ -35,7 +35,7 @@ print(example_song)
 
 mdl.lab1.play_song(example_song)
 
-# Join our list of song strings into a single string containing all songs
+# list of song strings into a single string containing all songs
 songs_joined = "\n\n".join(songs) 
 
 # To Find all unique characters in the joined string
